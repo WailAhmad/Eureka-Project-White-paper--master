@@ -8,13 +8,7 @@
     <artifactId>sn-profile-matching</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <developers>
-        <developer>
-            <name>Dmitri Babaev</name>
-            <email>dmitri.babaev@gmail.com</email>
-        </developer>
-    </developers>
-
+    
     <build>
         <plugins>
             <plugin>
